@@ -502,4 +502,24 @@
     left: 0;
     top: 1663px;
   }
- 
+  .footersocials li {
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(18%) contrast(10%);
+    padding: 5px;
+  }
+  .footersocials {
+    display: flex;
+    width: 375px;
+    height: 72px;
+    border-top: 1px solid #dfe1e6;
+    padding-top: 25px;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+  }
+
+  .borderline {
+    border: 3px solid black;
+    width: 30%;
+    border-radius: 5px;
+  }
