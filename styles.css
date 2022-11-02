@@ -511,11 +511,11 @@
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
     font-style: normal;
-    font-weight: 700;
+    font-weight: bold;
     font-size: 32px;
-    line-height: 44px;
+    line-height: 48px;
     text-align: center;
-    color: #172b4d;
+    color: #000000;
   }
 
   .footersocials li {
